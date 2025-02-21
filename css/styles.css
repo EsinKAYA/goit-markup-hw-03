@@ -104,6 +104,8 @@ body {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  display: block;
+  margin: 0 auto;
 }
 .button-text:hover {
   background-color: #404bbf;
@@ -112,7 +114,7 @@ body {
   background-color: #404bbf;
 }
 .section-two{
-padding 120px 0;
+padding: 120px 0;
 }
 .htwo{
   visibility: hidden;
