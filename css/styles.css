@@ -129,10 +129,7 @@ body {
   padding: 120px 0;
 }
 .sectwo-ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
-  row-gap: 48px;
+
 }
 .sectwo-li {
   background-color: #ffffff;
@@ -155,9 +152,13 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.container-our{
+  width: 1158px;
+  margin:0 auto;
+}
 .section-three {
   background-color: #f4f4fd;
+  padding: 12px 0;
 }
 .team-title {
   font-size: 36px;
@@ -170,6 +171,14 @@ body {
 .team {
   background-color: #ffffff;
 }
+.team-ul{
+    display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      row-gap: 48px;
+
+}
+
 .person {
   font-weight: 500;
   font-size: 20px;
