@@ -162,13 +162,10 @@ body {
   color: #434455;
 }
 /*our team kısmı*/
-.container-our {
-  width: 1158px;
-  margin: 0 auto;
-}
+
 .section-three {
   background-color: #f4f4fd;
-  padding: 12px 0;
+  padding: 120px 0;
 }
 .team-title {
   font-size: 36px;
@@ -177,6 +174,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .team {
   background-color: #ffffff;
