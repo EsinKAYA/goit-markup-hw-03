@@ -116,9 +116,6 @@ body {
 .section-two{
 padding: 120px 0;
 }
-.htwo{
-  visibility: hidden;
-}
 .sectwo-ul{
   display: flex;
   gap: 24px;
