@@ -180,6 +180,7 @@ body {
   flex-wrap: wrap;
   margin-top: 72px;
   gap: 24px;
+  padding-left: 0px;
 }
 .team-list {
   background-color: #ffffff;
