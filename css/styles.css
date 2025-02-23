@@ -41,11 +41,11 @@ body {
   border-bottom: 1px solid#e7e9fc;
 }
 .container {
-  display: flex;
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
-  flex-direction: column;
+  
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+   
 }
 .nav {
   display: flex;
