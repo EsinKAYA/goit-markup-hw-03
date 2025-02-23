@@ -262,9 +262,12 @@ body {
   color: #2e2f42;
   margin-bottom: 8px;
 }
-.row li{
-  'width: calc((100% - 72px) / 4);
-
+.rov-li {
+  text-decoration: none;
+  list-style-type: none;
+  flex: 1;
+  background-color: #ffffff;
+  flex-basis: calc((100% - 72px) / 4);
 }
 .row-box{
   padding: 32px 16px;
