@@ -40,6 +40,9 @@ body {
 .header {
   border-bottom: 1px solid#e7e9fc;
 }
+.header-top{
+  display: flex;
+}
 .container {
   
     width: 1158px;
