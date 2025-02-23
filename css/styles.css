@@ -285,6 +285,7 @@ body {
 .container>.logo-one{
   display: inline-block;
   margin-bottom: 16px;
+  margin-right: 0;
 }
 .footer-parag {
   line-height: 1.5;
