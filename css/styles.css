@@ -63,7 +63,6 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  display: inline-block;
 }
 .logo-spanone {
   color: #2e2f42;
@@ -283,10 +282,11 @@ body {
   padding: 100px 0;
   background-color: #2e2f42;
 }
-.container>.logo-one{
+.footer>.container{
   display: inline-block;
+}
+.container>.logo-one{
   margin-bottom: 16px;
-  margin-right: 0;
 }
 .footer-parag {
   line-height: 1.5;
