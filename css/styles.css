@@ -235,7 +235,7 @@ body {
 }
 /*Portfolio*/
 .section-four{
-  padding: 12px 0;
+  padding: 120px 0;
 }
 .portfolio {
   font-size: 36px;
@@ -282,7 +282,7 @@ body {
   padding: 100px 0;
   background-color: #2e2f42;
 }
-.footer-box {
+.footer-box >.logo-one {
   display: inline-block;
   margin-bottom: 16px;
 }
